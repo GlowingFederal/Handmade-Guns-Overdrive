@@ -1,3 +1,0 @@
-name,HMG_WW2Guns
-Icon,HandmadeGuns:Gew98
-End
