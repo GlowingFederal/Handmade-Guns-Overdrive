@@ -1,6 +1,6 @@
 Texture,20mmMagazine
-Stack,64
-Name,20mm Magazine
+Stack,1
+Name,20x138mmB Clip
 
 Tabname,HMG_Ammo
 

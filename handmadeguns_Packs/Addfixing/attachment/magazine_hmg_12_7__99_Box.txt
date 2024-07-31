@@ -1,7 +1,7 @@
 Texture,127x99bullet
-Stack,64
+Stack,1
 BulletRound,110
-Name,12.7mm x 99mm Belt
+Name,110 Rnd .50 Cal Belt
 
 Tabname,HMG_Ammo
 

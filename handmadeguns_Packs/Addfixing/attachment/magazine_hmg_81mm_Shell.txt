@@ -1,5 +1,5 @@
 Texture,81mmShell
-Stack,64
+Stack,4
 Name,81mm HE Shell
 
 Tabname,HMG_Ammo

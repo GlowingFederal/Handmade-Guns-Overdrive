@@ -1,6 +1,6 @@
 Texture,bullet_lmg7.62NATO
-Stack,64
-Name,7.62NATO Bullet box
+Stack,1
+Name,200 Rnd 7.62x51mm NATO Box
 BulletRound,200
 
 Tabname,HMG_Ammo

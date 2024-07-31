@@ -2,7 +2,7 @@ Texture,bullet_14_5 HE
 Stack,64
 BulletRound,1
 BulletType,10
-Name,14.5mm Ammo (HE)
+Name,14.5mm HE Bullet
 
 Tabname,HMG_Ammo
 

@@ -1,7 +1,7 @@
 Texture,762bullet_30Round
-Stack,64
+Stack,2
 BulletRound,30
-Name,7.62mm Rifle Magazine 30Round
+Name,30 Rnd 7.62x39mm Magazine
 
 Tabname,HMG_Ammo
 

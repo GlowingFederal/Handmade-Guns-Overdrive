@@ -1,7 +1,7 @@
 Texture,bullet_14_5
 Stack,64
 BulletRound,1
-Name,14.5mm Ammo
+Name,14.5mm Bullet
 
 Tabname,HMG_Ammo
 

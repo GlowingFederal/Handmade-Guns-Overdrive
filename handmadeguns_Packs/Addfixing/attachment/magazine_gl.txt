@@ -1,7 +1,7 @@
 Texture,bullet_gl
-Stack,64
+Stack,8
 Tabname,HMG_Ammo
-Name,Grenade_Bullet
+Name,40×46mm Grenade
 Magazine,bullet_gl
 Recipe1,bbb
 Recipe2, a 

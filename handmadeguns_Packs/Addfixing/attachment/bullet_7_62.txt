@@ -1,6 +1,6 @@
 Texture,762bullet
 Stack,64
-Name,7.62mm bullet
+Name,7.62x39mm Bullet
 BulletRound,1
 
 Tabname,HMG_Ammo

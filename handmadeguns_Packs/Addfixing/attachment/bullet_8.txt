@@ -1,6 +1,6 @@
 Texture,8bullet
 Stack,64
-Name,8mm bullet
+Name,8mm Bullet
 BulletRound,1
 
 Tabname,HMG_Ammo

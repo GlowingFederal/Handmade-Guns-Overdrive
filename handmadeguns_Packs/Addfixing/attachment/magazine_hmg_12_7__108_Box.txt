@@ -1,6 +1,6 @@
 Texture,127x108bullet
-Stack,64
-Name,12.7mm x 108mm Box
+Stack,1
+Name, 50 Rnd .50 Cal Box
 BulletRound,50
 
 Tabname,HMG_Ammo

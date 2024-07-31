@@ -1,7 +1,7 @@
 Texture,545bullet
-Stack,64
+Stack,2
 BulletRound,30
-Name,5.45mm Rifle Magazine
+Name,30 Rnd 5.45x39mm Magazine
 
 Tabname,HMG_Ammo
 

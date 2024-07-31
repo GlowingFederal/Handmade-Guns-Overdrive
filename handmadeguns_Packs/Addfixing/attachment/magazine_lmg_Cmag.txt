@@ -1,8 +1,8 @@
 Texture,bullet_lmg_hmg_Cmag
-Stack,64
+Stack,1
 ReloadTimeOption,75
 BulletRound,100
-Name,Beta C-Mag
+Name,100 Rnd 5.56x45mm Beta C-Mag
 
 Tabname,HMG_Ammo
 

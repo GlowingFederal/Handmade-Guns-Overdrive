@@ -1,7 +1,7 @@
 Texture,bullet_lmg_hmg_mini
-Stack,64
-BulletRound,200
-Name,MiniGun Magazine
+Stack,1
+BulletRound,500
+Name,500 Rnd MiniGun Bullet Box
 
 Tabname,HMG_Ammo
 

@@ -1,6 +1,6 @@
 Texture,40mmClip
-Stack,64
-Name,40mm Bullet
+Stack,1
+Name,40x311mmR Clip
 
 Tabname,HMG_Ammo
 

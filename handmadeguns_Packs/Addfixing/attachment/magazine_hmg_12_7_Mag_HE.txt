@@ -1,6 +1,6 @@
 Texture,1270bullet HE
-Stack,64
-Name,12.7mm Rifle Magazine(HE)
+Stack,1
+Name,10 Rnd .50 BMG HE Magazine
 BulletRound,10
 BulletType,10
 

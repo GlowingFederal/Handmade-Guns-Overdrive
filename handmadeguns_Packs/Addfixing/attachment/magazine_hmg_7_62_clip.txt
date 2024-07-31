@@ -1,6 +1,6 @@
 Texture,762bulletclip
-Stack,64
-Name,7.62mm clip
+Stack,2
+Name,5 Rnd 7.62x39mm clip
 BulletRound,5
 
 Tabname,HMG_Ammo

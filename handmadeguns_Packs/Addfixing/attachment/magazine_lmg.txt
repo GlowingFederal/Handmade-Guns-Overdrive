@@ -1,7 +1,7 @@
 Texture,bullet_lmg
-Stack,64
+Stack,1
 Tabname,HMG_Ammo
-Name,LMG bullet box
+Name,Generic LMG bullet box
 Magazine,bullet_lmg_hmg
 
 Recipe1,aaa
