@@ -178,5 +178,5 @@ AddParts,mat1
     BackParts
 
 Tabname,HMG_GVCGuns
-Name,„R„B„D
+Name,SVD Dragonov
 SR,SVD

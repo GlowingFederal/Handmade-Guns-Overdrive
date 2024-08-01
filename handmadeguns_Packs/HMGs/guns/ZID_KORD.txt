@@ -496,8 +496,8 @@ BulletNameALL,12_7mmBullet_Green
 BulletNameCart,12_7mmCart
 
 
-LMG,byNicoemon_ZID_KORD
-Name,„K„O„Q„D
+LMG,Kord
+Name,Kord
 
 Recipe1, a 
 Recipe2,aba
@@ -505,4 +505,4 @@ Recipe3,abc
 ItemA,minecraft,iron_ingot
 ItemB,minecraft,iron_block
 ItemC,minecraft,emerald_block
-addNewRecipe,HandmadeGuns,byNicoemon_ZID_KORD,1
+addNewRecipe,HandmadeGuns,Kord,1

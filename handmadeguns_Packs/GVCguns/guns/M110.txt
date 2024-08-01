@@ -72,5 +72,5 @@ ReloadMotion
 }
 
 Tabname,HMG_GVCGuns
-Name,M110
+Name,M110 SASS
 SR,M110

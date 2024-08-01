@@ -81,6 +81,6 @@ Cartridge,false
 guntype,5
 Tabname,HMG_GVCGuns
 Name,M2 Flame Thrower
-Unified_guns,M2F
+Unified_guns,M2 Flame Thrower
 
 //addRecipe,AR_sample,1,abc,0ef,000,265,265,265,280,265,280,280,280,280

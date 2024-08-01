@@ -100,4 +100,4 @@ AddParts,$body
 Name,L16 Mortar
 restrictTurretMoveSpeed,4,4
 TurretHP,20
-GL,L16Mortar
+GL,L16 Mortar

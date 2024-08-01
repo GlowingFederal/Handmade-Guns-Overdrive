@@ -90,7 +90,7 @@ AddParts,obj10
     BackParts
 
 
-Name,AAGun_bofors40mm
+Name,Bofors-40mm
 restrictTurretMoveSpeed,4,4
 TurretHP,200
 LMG,bofors_40mm

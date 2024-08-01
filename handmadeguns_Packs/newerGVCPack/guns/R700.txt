@@ -234,5 +234,5 @@ AddParts,mat1
 	BackParts
 
 Tabname,HMG_GVCGuns
-Name,R700
+Name,Remington Model 700
 SR,R700

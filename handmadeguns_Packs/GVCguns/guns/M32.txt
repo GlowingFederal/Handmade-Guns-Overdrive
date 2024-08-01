@@ -143,4 +143,4 @@ AddParts,mat1
 
 Tabname,HMG_GVCGuns
 
-GL,M32
+GL,M32 MGL

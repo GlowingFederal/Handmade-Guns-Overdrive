@@ -194,7 +194,7 @@ Tabname,HMG_GVCGuns
 UseUnderGun'smodel,true
 UnderGunRotation,-90f,0,0
 UnderGunOffset,0f,0.5639,5.6004
-Name,„@„K-47
+Name,AK-47
 AR,AK47
 
 //addRecipe,AR_sample,1,abc,0ef,000,265,265,265,280,265,280,280,280,280

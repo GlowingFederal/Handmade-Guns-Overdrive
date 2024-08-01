@@ -69,5 +69,5 @@ ReloadMotion
 
 
 Tabname,HMG_GVCGuns
-Name,„Q„P„C-7
+Name,RPG-7
 RR,RPG7

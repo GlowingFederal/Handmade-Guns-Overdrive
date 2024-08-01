@@ -132,4 +132,4 @@ AddParts,mat1
     BackParts
 
 Tabname,HMG_GVCGuns
-GL,M320
+GL,M320 GLM

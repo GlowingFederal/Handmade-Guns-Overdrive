@@ -193,6 +193,6 @@ AddParts,Body1
 
 BulletNameALL,14_5mmBullet
 BulletNameCart,14_5mmCart
-Name,„P„S„Q„D1941
+Name,PTRD-41
 Tabname,HMG_GVCGuns
 SR,PTRD1941

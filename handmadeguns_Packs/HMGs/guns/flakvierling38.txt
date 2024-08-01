@@ -87,9 +87,9 @@ AddParts,SYS_ALL_Base
     BackParts
 
 
-Name,AAGun_flakvierling38
+Name,Flak-38
 TurretHP,200
-LMG,flakvierling38
+LMG,Flak-38
 
 
 Recipe1,abc
@@ -98,4 +98,4 @@ Recipe3,bbb
 ItemA,minecraft,iron_ingot
 ItemB,minecraft,iron_block
 ItemC,minecraft,emerald
-addNewRecipe,HandmadeGuns,AAGun_flakvierling38,1
+addNewRecipe,HandmadeGuns,Flak-38,1

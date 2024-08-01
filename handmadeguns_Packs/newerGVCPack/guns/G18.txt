@@ -143,7 +143,7 @@ AddParts,mat1
         AddReloadMotionKey,24,0,0,0,0,0,0,          30,0,0,0,0,0,0
     BackParts
 Tabname,HMG_GVCGuns
-Name,Glock18
+Name,Glock-18
 HG,G18
 
 //addRecipe,AR_sample,1,abc,0ef,000,265,265,265,280,265,280,280,280,280

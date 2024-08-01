@@ -97,5 +97,5 @@ AddParts,obj1
 BackParts
 
 Tabname,HMG_GVCGuns
-Name,9K38 „I„s„|„p
+Name,9K38 Igla
 RR,9k38

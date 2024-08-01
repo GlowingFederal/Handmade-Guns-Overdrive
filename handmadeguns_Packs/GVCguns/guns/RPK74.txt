@@ -180,5 +180,5 @@ AddParts,SYS_Base
 		BackParts
 
 Tabname,HMG_GVCGuns
-Name,„Q„P„K-74
+Name,RPK-74
 AR,RPK74

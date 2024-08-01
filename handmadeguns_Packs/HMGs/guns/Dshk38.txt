@@ -329,7 +329,7 @@ BulletNameALL,12_7mmBullet_Green
 BulletNameCart,12_7mmCart
 BulletNameMAG,DSHKBulletBox
 
-Name,Heavy Machine Gun „D„Y„K
+Name,Heavy Machine Gun Dshk-38
 LMG,Dshk38
 
 
