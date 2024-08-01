@@ -7,7 +7,7 @@ Acceleration,0.5f
 accelerationFuse,20
 resistance,0.95f
 Recoil,2.0d
-ReloadTime,50
+ReloadTime,100
 RemainingBullet,1
 Attacking,2.0f
 ElevationOffsets,-5
@@ -18,8 +18,8 @@ ZoomRenderTypeTxture,false,true,true
 ReloadMat3,false
 
 ScopeTexture,rr.png,redPoint.png,scope_RPG7.png
-Explosion,1.5f
-BlockDestory,true
+Explosion,15.0f
+BlockDestory,false
 Texture,RR_sample
 GunSound,handmadeguns.missileLaunch,handmadeguns.missileLaunch
 GunSoundReload,handmadeguns.reload
