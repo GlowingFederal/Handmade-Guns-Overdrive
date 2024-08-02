@@ -4,7 +4,7 @@ BulletGravity,0.485
 Class,3
 BlletSpread,5.0f
 ADS_Spread_coefficient,0.8
-BlletSpreadDiffusion,8,0,0.7,0.3,3,0.3
+BlletSpreadDiffusion,3,0,0.7,0.3,3,0.3
 ElevationOffsets,     0,-0.3,-0.6,-0.9,-1.35,-1.7,-2.2
 elevationOffsets_info,0,20m ,40m ,60m ,80m ,100m , 120m
 Cycle,2
@@ -46,7 +46,7 @@ allowattach,scope
 Canfix,true
 FixAsEntity,true
 
-ModelEquipped,-0.7f,0.7f,0.0f
+ModelEquipped,-0.7f,0.7f,-0.4f
 SimpleADSOffsetY,0.71715,0.862,0.85f
 SimpleADSOffsetX,0,0,0
 ModelWidthZ,0,0,0
@@ -60,11 +60,11 @@ OnEntity_BarrelPoint,0,0.094,0.6
 
 ModelArm,true
 ModelArmRotationR,-1.57f,0f,-1.57f
-ModelArmOffsetR,0.4f,0.3f,0.5f
+ModelArmOffsetR,0.4f,0.3f,0.3f
 ModelArmRotationL,-0.0f,-2.3f,2.0f
-ModelArmOffsetL,0.1f,0.3f,-1.2f
+ModelArmOffsetL,0.3f,0.5f,-0.1f
 
-SprintingPoint,0.5f,0.0f,0.5f
+SprintingPoint,1.0f,0.0f,0.5f
 SprintingRotation,20f,60f,0f
 
 ScopeTexture,null.png,null.png,scope_svd.png
