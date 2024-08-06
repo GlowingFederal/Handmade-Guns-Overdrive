@@ -38,7 +38,7 @@ attachRestriction,true
 allowattach,reddot
 allowattach,scope
 
-ModelEquipped,-0.7f,0.7f,0.0f
+ModelEquipped,-0.7f,0.7f,-0.2f
 SimpleADSOffsetY,0.9295,0.950,0.950
 SimpleADSOffsetX,0,0,0
 ModelWidthZ,-0.2f,0.0f,0.0f
@@ -52,7 +52,7 @@ ModelArmOffsetR,0.4f,0.3f,0.5f
 ModelArmRotationL,-0.0f,-2.3f,2.0f
 ModelArmOffsetL,0.1f,0.3f,-1.2f
 
-SprintingPoint,0.5f,0.0f,0.5f
+SprintingPoint,0.8f,0.0f,0.5f
 SprintingRotation,20f,60f,0f
 
 SoundSpeed,1.2f

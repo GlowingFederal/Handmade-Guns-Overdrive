@@ -38,7 +38,7 @@ Rates,2,2
 attachRestriction,true
 allowattach,byfrou01_Bayonet
 
-ModelEquipped,-0.7f,0.7f,0.0f
+ModelEquipped,-0.7f,0.6f,-0.5f
 ModelHigh,0.9601,0.9601,0.9601
 SimpleADSOffsetX,0,0,0
 ModelWidthZ,0.3f,0.3f,0.3f
@@ -48,11 +48,11 @@ ModelRotationZ,180f,180f,180f
 
 ModelArm,true
 ModelArmRotationR,-1.57f,0f,-1.57f
-ModelArmOffsetR,0.4f,0.3f,0.5f
+ModelArmOffsetR,0.4f,0.2f,0.2f
 ModelArmRotationL,-0.0f,-2.3f,2.0f
-ModelArmOffsetL,0.1f,0.3f,-1.2f
+ModelArmOffsetL,0.1f,0.3f,-1.4f
 
-SprintingPoint,0.5f,0.0f,0.5f
+SprintingPoint,0.8f,0.0f,0.5f
 SprintingRotation,20f,60f,0f
 
 SoundSpeed,1f

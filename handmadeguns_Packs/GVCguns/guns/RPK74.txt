@@ -61,10 +61,10 @@ OnEntity_BarrelPoint,0,0.094,0.6
 ModelArm,true
 ModelArmRotationR,-1.57f,0f,-1.57f
 ModelArmOffsetR,0.4f,0.3f,0.3f
-ModelArmRotationL,-0.0f,-2.3f,2.0f
-ModelArmOffsetL,0.3f,0.5f,-0.1f
+ModelArmRotationL,-0.0f,-2.3f,2.f
+ModelArmOffsetL,0.1f,0.4f,-1.2f
 
-SprintingPoint,1.0f,0.0f,0.5f
+SprintingPoint,0.8f,0.0f,0.5f
 SprintingRotation,20f,60f,0f
 
 ScopeTexture,null.png,null.png,scope_svd.png
