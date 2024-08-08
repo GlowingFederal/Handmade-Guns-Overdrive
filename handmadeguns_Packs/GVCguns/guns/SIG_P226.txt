@@ -40,7 +40,7 @@ allowattach,reddot
 allowattach,right
 allowattach,Bullet_AT
 
-ModelEquipped,-0.7f,0.8f,0.0f
+ModelEquipped,-0.7f,0.8f,0.2f
 ModelHigh,1.34505,1.32705,1.20f
 ModelWidthX,0.694f,0.694f,0.694f
 ModelWidthZ,0.6f,0.4f,0.4f
@@ -50,9 +50,9 @@ ModelRotationZ,180f,180f,180f
 
 ModelArm,true
 ModelArmRotationR,-1.57f,0f,-1.57f
-ModelArmOffsetR,0.38f,0.3f,0.5f
+ModelArmOffsetR,0.38f,0.35f,0.67f
 ModelArmRotationL,-0.0f,-2.3f,2.0f
-ModelArmOffsetL,0.1f,0.5f,0.2f
+ModelArmOffsetL,0.1f,0.6f,0.4f
 
 SprintingPoint,0.5f,0.0f,0.5f
 SprintingRotation,-60f,0f,0f

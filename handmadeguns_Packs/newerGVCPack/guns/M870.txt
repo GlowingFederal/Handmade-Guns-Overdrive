@@ -28,7 +28,7 @@ attachRestriction,true
 allowattach,Bullet_Dart
 allowattach,Bullet_Frag
 
-ModelEquipped,-0.7f,0.7f,0.0f
+ModelEquipped,-0.7f,0.7f,-0.5f
 SimpleADSOffsetX,0,0,0
 SimpleADSOffsetY,0.8,0.8,0.8
 SimpleADSOffsetZ,2.5,2.5,2.5
@@ -37,8 +37,8 @@ ModelRotationY,45f,45f,45
 ModelRotationZ,180f,180f,180f
 
 ModelArm,true
-ModelArmRotationR,-1.57f,0f,-1.37f
-ModelArmOffsetR,0.35f,0.1f,0.3f
+ModelArmRotationR,-1.57f,-0.3f,-1.37f
+ModelArmOffsetR,0.1f,0.1f,0.05f
 ModelArmRotationL,-0.0f,-2.3f,2.0f
 ModelArmOffsetL,0.1f,0.3f,-2.5f
 

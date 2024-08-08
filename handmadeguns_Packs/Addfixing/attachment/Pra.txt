@@ -1,6 +1,6 @@
 Texture,pra
 Stack,64
-Name,Prastic
+Name,Plastic
 
 Tabname,HMG_Ammo
 
