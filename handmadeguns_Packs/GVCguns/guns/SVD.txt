@@ -27,7 +27,7 @@ ZoomRenderType,false,false,false
 ZoomRenderTypeTxture,true,true,true
 
 Texture,SVD
-GunSound,handmadeguns.fire,handmadeguns.supu
+GunSound,handmadeguns.Dragunov,handmadeguns.supu
 GunSoundReload,handmadeguns.reload
 CanObj,true
 ObjModel,SVD.mqo
@@ -48,8 +48,8 @@ ModelRotationY,45f,45f,45
 ModelRotationZ,180f,180f,180f
 
 ModelArm,true
-ModelArmRotationR,-1.57f,0f,-1.57f
-ModelArmOffsetR,0.4f,0.1f,0.4f
+ModelArmRotationR,-1.57f,0.0f,-1.57f
+ModelArmOffsetR,-0.2f,0.1f,0.2f
 ModelArmRotationL,-0.0f,-2.2f,2.0f
 ModelArmOffsetL,0.1f,0.3f,-1.8f
 

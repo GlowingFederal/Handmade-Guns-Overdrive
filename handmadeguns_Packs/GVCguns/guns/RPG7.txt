@@ -40,7 +40,7 @@ ModelRotationZ,180f,180f,180f
 
 ModelArm,true
 ModelArmRotationR,-1.57f,-0.3f,-1.57f
-ModelArmOffsetR,0.01f,0.2f,0.5f
+ModelArmOffsetR,0.01f,0.2f,0.49f
 ModelArmRotationL,-0.0f,-1.2f,2.0f
 ModelArmOffsetL,0.1f,0.4f,0.6f
 SprintingPoint,0.0f,1f,0.2f

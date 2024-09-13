@@ -23,7 +23,7 @@ ZoomRenderType,true,true,true
 ZoomRenderTypeTxture,false,false,false
 
 Texture,PM
-GunSound,handmadeguns.firehg,handmadeguns.firehg
+GunSound,handmadeguns.Makarov,handmadeguns.Makarov
 GunSoundLV,4,4
 GunSoundReload,handmadeguns.reload
 CanObj,true

@@ -140,8 +140,8 @@ ModelRotationY,45f,45f,45
 ModelRotationZ,180f,180f,180f
 
 ModelArm,true
-ModelArmRotationR,-1.57f,0f,-1.57f
-ModelArmOffsetR,0.4f,0.3f,0.5f
+ModelArmRotationR,-1.07f,-0.6f,-1.57f
+ModelArmOffsetR,-0.11f,0.31f,0.2f
 ModelArmRotationL,-0.0f,-2.3f,2.0f
 ModelArmOffsetL,0.1f,0.4f,-1.2f
 
