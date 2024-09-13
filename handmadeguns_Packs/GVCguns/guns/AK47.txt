@@ -24,7 +24,7 @@ ZoomRenderType,true,true,false
 ZoomRenderTypeTxture,false,false,true
 
 Texture,ak47
-GunSound,handmadeguns.fire,handmadeguns.supu
+GunSound,handmadeguns.AK47,handmadeguns.supu
 GunSoundReload,handmadeguns.reload
 CanObj,true
 ObjModel,ak47.mqo

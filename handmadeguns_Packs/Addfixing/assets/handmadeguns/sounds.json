@@ -1,6 +1,9 @@
 {
   "handmadeguns.14.5mmFire": {"category": "neutral","sounds": ["14.5mmFire"]},
   "handmadeguns.20mmfire": {"category": "neutral","sounds": ["20mmfire"]},
+  "handmadeguns.AK47": {"category": "neutral","sounds": ["AK47"]},
+  "handmadeguns.AK74": {"category": "neutral","sounds": ["AK74"]},
+  "handmadeguns.AK74u": {"category": "neutral","sounds": ["AK74u"]},
   "handmadeguns.bombdrops": {"category": "neutral","sounds": ["bombdrops"]},
   "handmadeguns.bow": {"category": "neutral","sounds": ["bow"]},
   "handmadeguns.bulletflyby": {"category": "neutral","sounds": ["bulletflyby"]},
