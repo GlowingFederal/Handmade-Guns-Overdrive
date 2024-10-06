@@ -1,4 +1,4 @@
-BulletPower,80
+BulletPower,200
 BulletSpeed,0.1
 BlletSpread,4.0f
 BulletGravity,0.485
@@ -16,8 +16,8 @@ ZoomRender,true
 ZoomRenderType,true,true,false
 ZoomRenderTypeTxture,false,false,true
 ElevationOffsets,-13
-Explosion,4.5f
-BlockDestory,true
+Explosion,8.0f
+BlockDestory,false
 Texture,9k38
 GunSound,handmadeguns.9k38Launch,handmadeguns.9k38Launch
 lockSound_entity,handmadeguns:handmadeguns.9k38Lock

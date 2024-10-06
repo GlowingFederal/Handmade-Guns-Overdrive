@@ -38,8 +38,8 @@ ObjModel,DSHK38.mqo
 ObjTexture,DSHK.png
 ModelScala,0.5
 ModelHigh,0.35,-0.0087,0.35
-SimpleADSOffsetZ,5,5,5
-ModelEquipped,-0.7F,0.35,2.5
+SimpleADSOffsetZ,2,2,2
+ModelEquipped,-0.7F,0.35,1.0
 Tabname,HMG_GVCGuns
 
 CustomFlash,CannonMuzzleFlash,3
@@ -51,7 +51,7 @@ Canfix,true
 NeedFix,true
 FixAsEntity,true
 Magazine,0,HandmadeGuns,12.7mmx108mmBox
-ModelArm,true
+ModelArm,false
 OnEntity_BarrelPoint,0,0.168,0.9
 OnEntity_RotationPitchPoint,0,0.11593,-0.12688
 Turretanglelimit,24,-85,360,-360

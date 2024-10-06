@@ -1,19 +1,20 @@
-BulletPower,10
+BulletPower,30
 bulletFuse,40
-BulletSpeed,1.6f
+BulletSpeed,4.6f
 BulletGravity,0.485
-BlletSpread,7.0f
+BlletSpread,5.0f
 BlletSpreadDiffusion,10,0,1.8,0.2,3,0.6
 Cycle,10
 Recoil,1.5d
-ReloadTime,80
+ReloadTime,120
 RemainingBullet,6
 Attacking,2.0f
 Zoom,1.1f,2.0f,4.0f
 ZoomRender,true
 ZoomRenderType,true,true,true
 ZoomRenderTypeTxture,false,false,false
-Explosion,2
+Explosion,4
+BlockDestory,false
 Texture,GL_sample
 GunSound,handmadeguns.firegrenade,handmadeguns.supu
 GunSoundReload,handmadeguns.reload
@@ -22,8 +23,9 @@ ObjModel,M32.mqo
 ObjTexture,ar.png
 ModelScala,0.5f
 CartridgeType,4
+ADS_Spread_coefficient,0.1
 
-ModelEquipped,-0.7f,0.7f,1.0f
+ModelEquipped,-0.7f,0.7f,0.0f
 ModelHigh,0.97f,0.85f,0.85f
 ModelWidthX,0.694f,0.694f,0.694f
 ModelWidthZ,0.0f,0.0f,0.0f
@@ -33,9 +35,11 @@ ModelRotationZ,180f,180f,180f
 
 ModelArm,true
 ModelArmRotationR,-1.57f,0f,-1.57f
-ModelArmOffsetR,0.3f,0.5f,0.8f
+ModelArmOffsetR,0.3f,0.45f,0.7f
 ModelArmRotationL,-0.0f,-2.3f,2.0f
-ModelArmOffsetL,0.1f,0.4f,-1.4f
+ModelArmOffsetL,0.55f,0.6f,0.3f
+
+SprintingPoint,0.5f,-0.2f,0.5f
 
 Mat31Point,0.0f,0.2f,0.0f
 Mat31Rotation,0f,0f,60f

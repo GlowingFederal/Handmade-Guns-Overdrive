@@ -1,6 +1,6 @@
 BulletPower,30
 bulletFuse,40
-BulletSpeed,1.6f
+BulletSpeed,2.6f
 BulletGravity,0.485
 Cycle,10
 BlletSpread,7.0f
@@ -14,7 +14,8 @@ Zoom,1.1f,2.0f,4.0f
 ZoomRender,true
 ZoomRenderType,true,true,true
 ZoomRenderTypeTxture,false,false,false
-Explosion,2
+Explosion,4
+BlockDestory,false
 Texture,M320
 GunSound,handmadeguns.firegrenade,handmadeguns.supu
 GunSoundReload,handmadeguns.reload
@@ -24,10 +25,12 @@ ObjTexture,M320.png
 ModelScala,0.5f
 CartridgeType,4
 
-ModelEquipped,-0.7f,0.7f,1.0f
+ModelEquipped,-0.7f,0.7f,0.0f
 SimpleADSOffsetX,0.25,0.25,0.25
 SimpleADSOffsetY,1,1,1
-SimpleADSOffsetZ,3,3,3
+SimpleADSOffsetZ,1,1,1
+
+SprintingPoint,0.5f,-0.4f,0.5f
 
 ModelArm,true
 ModelArmRotationR,-1.57f,-0.2f,-1.57f
@@ -44,7 +47,7 @@ ScopeTexture,acog.png,acog.png,scope.png
 RenderCross,false
 Magazine,0,HandmadeGuns,bullet_gl
 
-SprintingPoint,0.5,0.0f,0.5f
+
 attachRestriction,true
 
 AddParts,mat1
