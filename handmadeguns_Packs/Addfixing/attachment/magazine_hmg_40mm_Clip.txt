@@ -1,5 +1,5 @@
 Texture,40mmClip
-Stack,1
+Stack,8
 Name,40x311mmR Clip
 
 Tabname,HMG_Ammo

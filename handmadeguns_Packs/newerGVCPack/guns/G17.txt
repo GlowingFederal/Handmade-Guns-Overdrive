@@ -38,7 +38,7 @@ attachRestriction,true
 ModelEquipped,-0.7f,0.7f,0.0f
 SimpleADSOffsetX,0,0,0
 SimpleADSOffsetY,0.473,0.473,0.473
-SimpleADSOffsetZ,2,2,2
+SimpleADSOffsetZ,0.8,1,1
 ModelRotationX,180f,180f,180f
 ModelRotationY,45f,45f,45
 ModelRotationZ,180f,180f,180f
@@ -49,7 +49,8 @@ ModelArmOffsetR,0.38F,0.4F,0.5F
 ModelArmRotationL,-0.0f,-2.3f,2.0f
 ModelArmOffsetL,0.1f,0.6F,0.2F
 
-SprintingRotation,-40,0f,0f
+SprintingRotation,-30,0f,0f
+SprintingPoint,0.5f,-0.0f,-0.3f
 
 SoundSpeed,1.5f
 

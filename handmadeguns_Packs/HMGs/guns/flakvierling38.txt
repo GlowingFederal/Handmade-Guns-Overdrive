@@ -21,7 +21,7 @@ ObjTexture,flakvierling38.png
 ModelScala,0.5
 ModelHigh,-6.385,-6.385,-6.385
 ModelWidthZ,6,6,6
-ModelEquipped,-0.7F,0.35,2.5
+ModelEquipped,-0.7F,-8.5,3.5
 Tabname,HMG_GVCGuns
 
 CustomFlash,CannonMuzzleFlash,3

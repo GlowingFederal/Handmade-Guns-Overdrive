@@ -19,6 +19,8 @@ sightOffset_zeroIn_add,5,   0,-0.06277136154,0
 sightOffset_zeroIn_add,6,   0,-0.07702799714,0
 sightOffset_zeroIn_add,7,   0,-0.09127876675,0
 
+SprintingPoint,0.0f,0f,0.2f
+SprintingRotation,-10f,0f,10f
 
 Recoil,5
 ReloadTime,150
@@ -38,7 +40,7 @@ ObjModel,DSHK38.mqo
 ObjTexture,DSHK.png
 ModelScala,0.5
 ModelHigh,0.35,-0.0087,0.35
-SimpleADSOffsetZ,2,2,2
+SimpleADSOffsetZ,3,3,3
 ModelEquipped,-0.7F,0.35,1.0
 Tabname,HMG_GVCGuns
 
@@ -51,7 +53,7 @@ Canfix,true
 NeedFix,true
 FixAsEntity,true
 Magazine,0,HandmadeGuns,12.7mmx108mmBox
-ModelArm,false
+ModelArm,true
 OnEntity_BarrelPoint,0,0.168,0.9
 OnEntity_RotationPitchPoint,0,0.11593,-0.12688
 Turretanglelimit,24,-85,360,-360

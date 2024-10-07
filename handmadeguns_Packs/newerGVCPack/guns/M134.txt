@@ -36,7 +36,9 @@ FixAsEntity,true
 OnEntity_PlayerPosOffset,0,0,3
 OnEntity_Yoffset,0.5
 
-ModelEquipped,-0.7f,0.7f,0.0f
+SprintingPoint,0.5f,0.5f,-0.3f
+
+ModelEquipped,-0.7f,0.7f,-1.0f
 ModelHigh,1.3,1.3f,1.3f
 ModelWidthX,0.694f,0.694f,0.694f
 ModelWidthZ,0.0f,0.0f,0.0f
