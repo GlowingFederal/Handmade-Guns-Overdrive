@@ -40,10 +40,17 @@ allowattach,reddot
 allowattach,right
 allowattach,Bullet_AT
 
-ModelEquipped,-0.7f,0.7f,0.0f
+//ModelEquipped,-0.7f,0.7f,0.0f
+
+ModelEquipped,-0.7f,0.7f,-0.2f
+
+SimpleADSOffsetX,0,0,0
+SimpleADSOffsetY,0.55,0.55,0.55
+SimpleADSOffsetZ,0.7,0.7,0.7
+
 ModelHigh,1.27F,1.22F,1.07F
-ModelWidthX,0.694f,0.694f,0.694f
-ModelWidthZ,1.0F,1.0F,1.0F
+//ModelWidthX,0.694f,0.694f,0.694f
+//ModelWidthZ,1.0F,1.0F,1.0F
 ModelRotationX,180f,180f,180f
 ModelRotationY,45f,45f,45
 ModelRotationZ,180f,180f,180f
@@ -54,7 +61,10 @@ ModelArmOffsetR,0.38F,0.28F,0.45F
 ModelArmRotationL,-0.0f,-2.3f,2.0f
 ModelArmOffsetL,0.1f,0.53F,0.18F
 
-SprintingRotation,-40,0f,0f
+//SprintingRotation,-40,0f,0f
+
+SprintingPoint,0.5f,-0.4f,-0.1f
+SprintingRotation,-40f,0f,0f
 
 SoundSpeed,1.2f
 

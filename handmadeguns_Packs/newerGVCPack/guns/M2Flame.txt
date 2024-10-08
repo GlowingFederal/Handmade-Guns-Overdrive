@@ -39,21 +39,24 @@ Rates,1
 
 attachRestriction,true
 
-ModelEquipped,-0.7f,0.7f,0.0f
+ModelEquipped,-0.7f,0.7f,-0.5f
 ModelHigh,1.07F,1.07F,1.07F
-ModelWidthX,0.0,0.694f,0.694f
-ModelWidthZ,1.0F,1.0F,1.0F
+//ModelWidthX,0.0,0.694f,0.694f
+//ModelWidthZ,1.0F,1.0F,1.0F
 ModelRotationX,180f,180f,180f
 ModelRotationY,45f,45f,45
 ModelRotationZ,180f,180f,180f
 
+SimpleADSOffsetZ,0.6,0.6,0.6
 
 ModelArm,true
 ModelArmRotationR,-1.57f,0f,-1.57f
-ModelArmOffsetR,0.4f,0.1f,0.5f
+ModelArmOffsetR,0.4f,0.3f,0.6f
 ModelArmRotationL,-0.0f,-2.3f,2.0f
-ModelArmOffsetL,0.6f,0.2f,-0.4f
+ModelArmOffsetL,0.2f,0.6f,-0.0f
 
+
+SprintingPoint,0.0f,-0.2f,0.0f
 SprintingRotation,-40,0f,0f
 
 SoundSpeed,1.5f

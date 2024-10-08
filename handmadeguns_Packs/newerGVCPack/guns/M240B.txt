@@ -42,10 +42,10 @@ Canfix,true
 FixAsEntity,true
 OnEntity_PlayerPosOffset,0,0,3
 
-ModelEquipped,-0.7f,0.7f,0.0f
+ModelEquipped,-0.5f,0.7f,-0.7f
 SimpleADSOffsetX,0,0,0
 SimpleADSOffsetY,1.075,1.075,1.075
-SimpleADSOffsetZ,2,2,2
+SimpleADSOffsetZ,0.5,0.5,0.5
 ModelRotationX,180f,180f,180f
 ModelRotationY,45f,45f,45
 ModelRotationZ,180f,180f,180f
@@ -59,11 +59,11 @@ OnEntity_BarrelPoint,0,0.145,0.6
 
 ModelArm,true
 ModelArmRotationR,-1.57f,0f,-1.57f
-ModelArmOffsetR,0.4f,0.3f,0.5f
+ModelArmOffsetR,0.4f,0.1f,0.2f
 ModelArmRotationL,-0.0f,-2.3f,2.0f
-ModelArmOffsetL,0.1f,0.3f,-2.4f
+ModelArmOffsetL,0.1f,0.3f,-0.4f
 
-SprintingPoint,0.5f,0.0f,0.5f
+SprintingPoint,0.5f,-0.2f,0.3f
 SprintingRotation,20f,60f,0f
 
 SoundSpeed,0.8F
