@@ -22,7 +22,7 @@ ZoomRenderType,true,true,false
 ZoomRenderTypeTxture,false,false,true
 
 Texture,PTRD1941
-GunSound,handmadeguns.14.5mmFire,handmadeguns.14.5mmFire
+GunSound,handmadeguns.ptrd,handmadeguns.ptrd
 GunSoundReload,handmadeguns.reload
 CanObj,true
 ObjModel,PTRD1941.mqo

@@ -26,7 +26,7 @@ ScopeTexture,redPoint.png,scope_g36_night.png,scope_g36.png
 NightVision,false,true,false
 
 Texture,MG36
-GunSound,handmadeguns.fire,handmadeguns.supu
+GunSound,handmadeguns.g36,handmadeguns.supu
 GunSoundReload,handmadeguns.reload
 CanObj,true
 ObjModel,G36.mqo

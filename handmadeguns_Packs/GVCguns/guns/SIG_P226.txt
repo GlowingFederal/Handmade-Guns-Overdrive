@@ -23,7 +23,7 @@ ZoomRenderType,true,true,true
 ZoomRenderTypeTxture,false,false,false
 
 Texture,P226
-GunSound,handmadeguns.firehg,handmadeguns.firehg
+GunSound,handmadeguns.p226,handmadeguns.firehg
 GunSoundLV,4,4
 GunSoundReload,handmadeguns.reload
 CanObj,true

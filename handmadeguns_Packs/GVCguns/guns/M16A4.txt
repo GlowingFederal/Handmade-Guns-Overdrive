@@ -24,7 +24,7 @@ ZoomRenderType,true,true,false
 ZoomRenderTypeTxture,false,false,true
 
 Texture,M16A4
-GunSound,handmadeguns.fire,handmadeguns.supu
+GunSound,handmadeguns.m16,handmadeguns.supu
 GunSoundReload,handmadeguns.reload
 CanObj,true
 ObjModel,M16A4.mqo
