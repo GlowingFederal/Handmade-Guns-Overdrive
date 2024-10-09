@@ -13,8 +13,9 @@ Zoom,1.1f,2.0f,4.0f
 ZoomRender,true
 ZoomRenderType,true,true,true
 ZoomRenderTypeTxture,false,false,false
-Explosion,1
-damagerange,5
+Explosion,5
+BlockDestory,false
+damagerange,10
 Texture,M26
 GunSound,handmadeguns.grenade,handmadeguns.null
 GunSoundReload,handmadeguns.null
@@ -29,7 +30,7 @@ MaxstackSize,10
 MuzzleFlash,false
 BulletNameALL,M26grenade
 
-ModelEquipped,0f,0.7f,0.5f
+ModelEquipped,0f,0.7f,-0.3f
 ModelHigh,0.97f,0.85f,0.85f
 ModelWidthX,0.694f,0.694f,0.694f
 ModelWidthZ,0.0f,0.0f,0.0f
@@ -38,11 +39,13 @@ ModelRotationY,45f,45f,45
 ModelRotationZ,180f,180f,180f
 
 ModelArm,true
-ModelArmRotationR,-0.0f,2.3f,2.0f
-ModelArmOffsetR,-0.8f,3f,0.8f
-ModelArmRotationL,-0.0f,-2.3f,1.0f
-ModelArmOffsetL,0.7f,-1.0f,0.8f
+ModelArmRotationR,-1.57f,0f,-1.50f
+ModelArmOffsetR,0.65f,0.38f,1.4f
+ModelArmRotationL,-0.0f,-2.3f,2.0f
+ModelArmOffsetL,0.4f,1f,0.4f
 armoffsetScale,0.5f
+
+SprintingPoint,0.0f,-0.2f,-0.0f
 
 Mat31Point,0.0f,0.2f,0.0f
 Mat31Rotation,0f,0f,60f

@@ -38,7 +38,7 @@ allowattach,Bullet_Frag
 allowattach,Bullet_AP
 allowattach,scope
 
-ModelEquipped,-0.7f,0.6f,-0.8f
+ModelEquipped,-0.7f,0.35f,-0.8f
 ModelHigh,0.99F,0.99F,0.99F
 //ModelWidthX,0.6945f,0.6945f,0.6945f
 //ModelWidthZ,0.5f,0.5f,0.5f

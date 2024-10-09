@@ -29,6 +29,7 @@ OnEntity_PlayerPosOffset,0,0,0
 OnEntity_Yoffset,0
 Tabname,HMG_GVCGuns
 SprintingPoint,0.0f,-2.0f,0.0f
+Motion,0.35
 
 CustomFlash,CannonMuzzleFlash,1
 ScopeTexture,ironsight.png,reddot.png,scope.png
