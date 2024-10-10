@@ -1,7 +1,7 @@
 BulletPower,600
 BulletSpeed,2
 BlletSpread,4.0f
-ADS_Spread_coefficient,0.5
+ADS_Spread_coefficient,0.2
 BlletSpreadDiffusion,3,0,0.3,0.2,2,0.1
 Acceleration,0.5f
 accelerationFuse,20
@@ -15,8 +15,8 @@ Zoom,4.0f,4.0f,4.0f
 ZoomRender,true
 ZoomRenderType,false,false,false
 ZoomRenderTypeTxture,true,true,true
-Explosion,4.5f
-BlockDestory,true
+Explosion,10.5f
+BlockDestory,false
 Texture,smaw
 GunSound,handmadeguns.missileLaunch,handmadeguns.missileLaunch
 GunSoundReload,handmadeguns.reload
@@ -66,5 +66,5 @@ ReloadMotion
 
 
 Tabname,HMG_GVCGuns
-Name,SMAW
-RR,SMAW
+Name,Mk153 SMAW
+RR,Mk153 SMAW

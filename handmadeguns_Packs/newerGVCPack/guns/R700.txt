@@ -1,4 +1,4 @@
-BulletPower,15
+BulletPower,18
 BulletSpeed,10
 BulletGravity,0.485
 
@@ -235,4 +235,4 @@ AddParts,mat1
 
 Tabname,HMG_GVCGuns
 Name,Remington Model 700
-SR,R700
+SR,Remington Model 700
