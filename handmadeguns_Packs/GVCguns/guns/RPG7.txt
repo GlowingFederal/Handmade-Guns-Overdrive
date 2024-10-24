@@ -21,7 +21,7 @@ ScopeTexture,rr.png,redPoint.png,scope_RPG7.png
 Explosion,15.0f
 BlockDestory,false
 Texture,RR_sample
-GunSound,handmadeguns.missileLaunch,handmadeguns.missileLaunch
+GunSound,handmadeguns.rpg7,handmadeguns.rpg7
 GunSoundReload,handmadeguns.reload
 CanObj,true
 ObjModel,rpg7.mqo

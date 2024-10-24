@@ -12,7 +12,7 @@ ZoomRenderType,true,true,false
 ZoomRenderTypeTxture,false,false,true
 Cycle,4
 Texture,bofors
-GunSound,handmadeguns.fire_30mm,handmadeguns.fire_30mm
+GunSound,handmadeguns.bofors,handmadeguns.bofors
 SoundSpeed,1f
 GunSoundReload,handmadeguns.reload
 CanObj,true

@@ -16,7 +16,7 @@ ZoomRenderType,true,true,true
 ZoomRenderTypeTxture,false,false,false
 Cycle,4
 Texture,HMG_M2HB
-GunSound,handmadeguns.HeavyMachineGun,handmadeguns.HeavyMachineGun
+GunSound,handmadeguns.m2browning,handmadeguns.m2browning
 GunSoundReload,handmadeguns.reload
 SoundSpeed,1.0f
 CanObj,true

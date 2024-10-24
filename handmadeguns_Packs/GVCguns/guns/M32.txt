@@ -16,7 +16,7 @@ ZoomRenderTypeTxture,false,false,false
 Explosion,4
 BlockDestory,false
 Texture,GL_sample
-GunSound,handmadeguns.firegrenade,handmadeguns.supu
+GunSound,handmadeguns.m32,handmadeguns.m32
 GunSoundReload,handmadeguns.reload
 CanObj,true
 ObjModel,M32.mqo

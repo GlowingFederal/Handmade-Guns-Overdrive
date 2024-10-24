@@ -32,7 +32,7 @@ ZoomRenderType,true,true,false
 ZoomRenderTypeTxture,false,false,true
 Cycle,2
 Texture,Dshk38
-GunSound,handmadeguns.dshk38Fire,handmadeguns.dshk38Fire
+GunSound,handmadeguns.dshk,handmadeguns.dshk
 SoundSpeed,1f
 GunSoundReload,handmadeguns.reload
 CanObj,true

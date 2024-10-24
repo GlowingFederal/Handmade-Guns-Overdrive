@@ -13,7 +13,7 @@ ZoomRenderType,true,true,false
 ZoomRenderTypeTxture,false,false,true
 Cycle,4
 Texture,L16Mortar
-GunSound,handmadeguns.81Motar,handmadeguns.81Motar
+GunSound,handmadeguns.mortareighty,handmadeguns.mortareighty
 SoundSpeed,1f
 GunSoundReload,handmadeguns.null
 CanObj,true

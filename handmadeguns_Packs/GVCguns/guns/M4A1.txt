@@ -22,7 +22,7 @@ ZoomRenderType,true,true,false
 ZoomRenderTypeTxture,false,false,true
 
 Texture,M4A1
-GunSound,handmadeguns.fire,handmadeguns.supu
+GunSound,handmadeguns.m4a1,handmadeguns.m4a1
 GunSoundReload,handmadeguns.reload
 CanObj,true
 ObjModel,M4A1.mqo
