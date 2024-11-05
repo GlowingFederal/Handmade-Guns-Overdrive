@@ -24,7 +24,7 @@ ZoomRenderType,true,true,false
 ZoomRenderTypeTxture,false,false,true
 
 Texture,M240B
-GunSound,handmadeguns.fire,handmadeguns.supu
+GunSound,handmadeguns.m240b,handmadeguns.supu
 GunSoundReload,handmadeguns.reload
 CanObj,true
 ObjModel,m240.mqo

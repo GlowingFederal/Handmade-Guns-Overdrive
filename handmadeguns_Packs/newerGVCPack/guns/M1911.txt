@@ -23,7 +23,7 @@ ZoomRenderType,true,true,true
 ZoomRenderTypeTxture,false,false,false
 
 Texture,M1911
-GunSound,handmadeguns.firehg,handmadeguns.firehg
+GunSound,handmadeguns.1911,handmadeguns.1911
 GunSoundLV,4,4
 GunSoundReload,handmadeguns.reload
 CanObj,true
