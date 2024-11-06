@@ -19,7 +19,7 @@ ElevationOffsets,-13
 Explosion,8.0f
 BlockDestory,false
 Texture,9k38
-GunSound,handmadeguns.9k38Launch,handmadeguns.9k38Launch
+GunSound,handmadeguns.igla,handmadeguns.igla
 lockSound_entity,handmadeguns:handmadeguns.9k38Lock
 lockSound_NoStop,true
 GunSoundReload,handmadeguns.reload
