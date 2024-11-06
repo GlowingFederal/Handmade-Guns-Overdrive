@@ -24,7 +24,7 @@ ZoomRenderType,false,false,false
 ZoomRenderTypeTxture,true,true,true
 
 Texture,M82A3
-GunSound,handmadeguns.HeavyGun,handmadeguns.supu
+GunSound,handmadeguns.barret,handmadeguns.supu
 GunSoundReload,handmadeguns.reload
 CanObj,true
 ObjModel,m82a3.mqo

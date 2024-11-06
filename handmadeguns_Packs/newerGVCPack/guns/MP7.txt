@@ -22,7 +22,7 @@ ZoomRenderType,true,true,true
 ZoomRenderTypeTxture,false,false,false
 
 Texture,MP7
-GunSound,handmadeguns.firehg,handmadeguns.firehg
+GunSound,handmadeguns.mp7,handmadeguns.mp7
 GunSoundLV,4,4
 GunSoundReload,handmadeguns.reload
 CanObj,true

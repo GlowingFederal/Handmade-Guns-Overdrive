@@ -13,7 +13,7 @@ ZoomRender,true
 ZoomRenderType,true,true,false
 ZoomRenderTypeTxture,false,false,true
 Texture,SG_sample
-GunSound,handmadeguns.fireSR,null
+GunSound,handmadeguns.r870,null
 GunSoundReload,handmadeguns.reload
 GunSoundCooking,handmadeguns.cooking
 CanObj,true
