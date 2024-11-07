@@ -1,5 +1,5 @@
 Texture,Suppressor
-Name,サプレッサー
+Name,Suppressor
 
 Tabname,HMG_Attachments
 

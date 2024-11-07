@@ -1,5 +1,5 @@
 Texture,reddot
-Name,ドットサイト
+Name,Red Dot
 
 Tabname,HMG_Attachments
 

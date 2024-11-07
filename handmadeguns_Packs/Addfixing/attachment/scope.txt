@@ -1,5 +1,5 @@
 Texture,scope
-Name,スコープ
+Name,Scope
 
 Tabname,HMG_Attachments
 

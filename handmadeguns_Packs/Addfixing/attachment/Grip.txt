@@ -5,7 +5,7 @@ ObjTexture,ar.png
 
 Tabname,HMG_Attachments
 
-Name,ƒOƒŠƒbƒv
+Name,Vertical Foregrip
 Grip,grip
 AntiRecoil,0.5
 AntiRecoil_ADS,0.5
