@@ -3,9 +3,10 @@ bulletFuse,40
 BulletSpeed,4.6f
 BulletGravity,0.485
 BlletSpread,2.0f
-BlletSpreadDiffusion,2,0,1.8,0.2,3,0.6
+BlletSpreadDiffusion,4,0,1.8,0.2,3,0.6
 Cycle,10
-Recoil,2
+Recoil,6
+Recoil_sneaking,3
 ReloadTime,120
 RemainingBullet,6
 Attacking,2.0f

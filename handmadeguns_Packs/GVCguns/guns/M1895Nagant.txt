@@ -2,12 +2,12 @@ BulletPower,8
 BulletSpeed,4.5
 BulletGravity,0.485
 Class,0
-BlletSpread,3.0f
+BlletSpread,2.0f
 ADS_Spread_coefficient,0.5
 BlletSpreadDiffusion,4,0,4,0.5,4,2
 Cycle,10
 
-Recoil,6
+Recoil,8
 Recoil_sneaking,5
 
 

@@ -2,13 +2,13 @@ BulletPower,6
 BulletSpeed,3.375
 BulletGravity,0.485
 Class,0
-BlletSpread,6.0
-ADS_Spread_coefficient,0.75
+BlletSpread,4.0
+ADS_Spread_coefficient,0.35
 BlletSpreadDiffusion,4,0,4,0.5,4,2
 Cycle,1
 
-Recoil,6
-Recoil_sneaking,5
+Recoil,7
+Recoil_sneaking,4
 
 
 ReloadTime,30

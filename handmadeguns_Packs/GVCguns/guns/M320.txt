@@ -5,7 +5,8 @@ BulletGravity,0.485
 Cycle,10
 BlletSpread,5.0f
 BlletSpreadDiffusion,5,0,1.5,0.2,3,0.5
-Recoil,2.5d
+Recoil,8
+Recoil_sneaking,4
 ReloadTime,30
 BlockDestory,true
 RemainingBullet,1
