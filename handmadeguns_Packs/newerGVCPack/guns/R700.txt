@@ -23,7 +23,7 @@ ZoomRenderType,false,false,false
 ZoomRenderTypeTxture,true,true,true
 
 Texture,R700
-GunSound,handmadeguns.fireRifle,handmadeguns.fireRifle
+GunSound,handmadeguns.r700,handmadeguns.r700
 GunSoundReload,handmadeguns.reload
 GunSoundCooking,handmadeguns.cooking
 CanObj,true
