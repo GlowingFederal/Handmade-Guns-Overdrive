@@ -1,5 +1,5 @@
 Texture,bullet_14_5
-Stack,64
+Stack,8
 BulletRound,1
 Name,14.5mm Bullet
 

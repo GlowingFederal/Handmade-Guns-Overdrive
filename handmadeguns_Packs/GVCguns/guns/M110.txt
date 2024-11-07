@@ -4,7 +4,7 @@ BulletGravity,0.485
 
 BlletSpread,8.0f
 ADS_Spread_coefficient,0.01
-BlletSpreadDiffusion,10,0,4,0.5,4,2
+BlletSpreadDiffusion,10,0,1.8,0.2,3,0.6
 Cycle,2
 
 Motion,0.88
