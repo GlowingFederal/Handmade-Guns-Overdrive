@@ -2,7 +2,7 @@ BulletPower,10
 BulletSpeed,10
 BulletGravity,0.485
 
-BlletSpread,5.0f
+BlletSpread,3.5f
 ADS_Spread_coefficient,0.8
 BlletSpreadDiffusion,10,0,2,0.2,3,0.5
 Cycle,2
@@ -10,7 +10,7 @@ ElevationOffsets,     0,-0.4,-0.8,-1.4,-2 ,-2.7,-3.5
 elevationOffsets_info,0,20m ,40m ,60m ,80m,100m,120m
 
 Recoil,4
-Recoil_sneaking,3
+Recoil_sneaking,2.5
 
 ReloadTime,50
 
@@ -202,7 +202,7 @@ AddParts,Sys_Zero_in
 		BackParts
 
 Tabname,HMG_GVCGuns
-Name,ÑRÑ{ÑÄÑÅÑyÑÇÑÄÑrÑpÑ~ÑÄ Ñ@ÑK-47
-AR,CopiedAK
+Name,Copied AK-47
+AR,Copied AK
 
 //addRecipe,AR_sample,1,abc,0ef,000,265,265,265,280,265,280,280,280,280

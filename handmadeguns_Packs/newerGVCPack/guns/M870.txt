@@ -3,7 +3,7 @@ BulletSpeed,3.0f
 BlletSpread,15.0f
 BlletSpreadDiffusion,0,0,1,0.5,4,0.5
 Class,1
-Recoil,12
+Recoil,20
 Recoil_sneaking,12
 ReloadTime,50
 RemainingBullet,8
