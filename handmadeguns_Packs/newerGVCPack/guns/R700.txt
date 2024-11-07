@@ -65,7 +65,7 @@ Mat25Point,0.0f,0.75f,1.1f
 Mat25Rotation,0f,0f,-90f
 CockingTime,20
 
-Magazine,0,HandmadeGuns,7.62mm clip
+Magazine,0,HandmadeGuns,.223 Remington clip
 MagazineSG,0,HandmadeGuns,bullet_shell_hmg
 MagazineGL,0,HandmadeGuns,bullet_rr_hmg
 
